@@ -1,0 +1,7 @@
+pandas
+os
+numpy
+scipy
+logging
+matplotlib
+IPython
