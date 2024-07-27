@@ -76,11 +76,11 @@ This project aims to analyze and clean horse racing data from [Horse Race Data](
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/horse-racing-analysis.git
+    git clone git@github.com:WassimAlkhalil/Statistical-Analysis-of-Racing-Data.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd horse-racing-analysis
+    cd Statistical-Analysis-of-Racing-Data
     ```
 3. Install the required packages:
     ```bash
