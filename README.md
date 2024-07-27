@@ -29,7 +29,7 @@ This R script performs a series of statistical simulations and optimizations. Th
     - Compute the mu values and sum of ranks.
 
 ## Horse Racing Data Analysis
-This project aims to analyze and clean horse racing data from [Horse Race Data](https://www.kaggle.com/datasets/hwaitt/horse-racing), with a focus on optimizing win probabilities and understanding the dynamics of horse racing events. The project is divided into two main components:
+This project aims to analyze and clean horse racing data from [Kaggel](https://www.kaggle.com/datasets/hwaitt/horse-racing), with a focus on optimizing win probabilities and understanding the dynamics of horse racing events. The project is divided into two main components:
 
 ### Cleaning.ipynb
 **Description**: This notebook is dedicated to cleaning and preprocessing the horse racing data.
